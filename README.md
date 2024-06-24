@@ -9,7 +9,10 @@
 
 - 📫 How to reach me **wasaeinfinity@gmail.com**
 
-- ⚡ Fun fact : **I pretend to be funny**
+-  ⚡ Fun fact : **I pretend to be funny**
+   
+
+ [![abdulwasaeee's GitHub | Stats](https://stats.quira.sh/abdulwasaeee/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=abdulwasaeee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
