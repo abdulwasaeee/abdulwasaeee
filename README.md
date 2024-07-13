@@ -12,6 +12,7 @@
 [![abdulwasaeee's GitHub | Stats](https://stats.quira.sh/abdulwasaeee/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=abdulwasaeee)![Leetcode Stats](https://leetcard.jacoblin.cool/wasae?theme=nord)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/abdul-wasae-64157b26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-wasae-64157b26a" height="30" width="40" /></a>
 <a href="https://instagram.com/wasaeism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasaeism" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/21311a05d5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21311a05d5" height="30" width="40" /></a>
 </p>
